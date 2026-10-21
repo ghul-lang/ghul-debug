@@ -7,10 +7,10 @@
     "license": "GPL-3.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/degory/ghul-debug.git"
+        "url": "https://github.com/ghul-lang/ghul-debug.git"
     },
     "bugs": {
-        "url": "https://github.com/degory/ghul-debug/issues"
+        "url": "https://github.com/ghul-lang/ghul-debug/issues"
     },
     "homepage": "https://ghul.dev",
     "icon": "images/ghul-logo-icon.png",
