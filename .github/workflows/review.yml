@@ -44,6 +44,7 @@ jobs:
         Read this file first:
         1. .github/claude-review.md — what this repo is, and what to watch for in it
     secrets:
+      claude-oauth-token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
       qwen-auth-token: ${{ secrets.QWEN_API_KEY }}
       openrouter-auth-token: ${{ secrets.OPENROUTER_API_KEY }}
       zai-auth-token: ${{ secrets.ZAI_API_KEY }}
